@@ -56,7 +56,7 @@ interface IPancakePair {
 pragma solidity ^0.5.0;
 
 
-contract Manager {
+contract IManager {
         function performTasks() public pure {
         }
 /* Breakdown of all functions
